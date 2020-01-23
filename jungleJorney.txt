@@ -9,3 +9,4 @@ List of elements we need:
 4. an umbrella
 5. a mirror
 6. a guitar
+7. a book
